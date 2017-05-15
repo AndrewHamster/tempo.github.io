@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# [Xamarin](https://www.xamarin.com/)
 
-You can use the [editor on GitHub](https://github.com/AndrewHamster/tempo.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Xamarin — американська компанія в галузі розробки ПЗ. Займається розробкою і підтримкою Mono та інструментів для розробки застосунків мовою C# для iOS, Android, Windows, Mac.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Ім’я
+Слово Xamarin походить від назви роду мавп Тамарин, замінивши провідну Т на X. Це знаходиться у відповідності з мав’ячею темою іменування продукту, що використовується з тих пір, як Xamarin було засновано.
 
-### Markdown
+## Історія
+Була заснована в травні 2011 Міґелем де Ікаса і Нетом Фрідманом (Nat Friedman) після розподілу активів компанії Novell.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Станом на 2013 рік в компанії працювало близько 76 осіб. У лютому 2016 року куплена компанією Microsoft за неназваною ціною. У складі Microsoft робота Xamarin буде зосереджена на розвитку платформи для розробки мобільних застосувань на мові C# з використанням технологій .NET. Поєднання напрацювань Xamarin з продуктами Visual Studio, Visual Studio Team Services і Azure утворює рішення, яке охопить вcі аспекти, необхідні для розробки, тестування і поширення мобільних застосувань для будь-яких категорій пристроїв, включаючи пристрої на платформах Android і iOS.
 
-```markdown
-Syntax highlighted code block
+## Продукти
+У лютому 2013 компанія випустила продукт Xamarin 2.0.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AndrewHamster/tempo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+28 травня 2014 була випущена третя версія інструментів розробки. Однією з головних новинок став інструмент Xamarin.Forms, що дозволяє створювати інтерфейс користувача з набору візуальних елементів, що описуються на мові розмітки XAML. Інтерфейс відображається у візуальні елементи відповідної операційної системи (Android, iOS і WinPhone).
